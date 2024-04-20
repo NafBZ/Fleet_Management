@@ -1,0 +1,3 @@
+[submodule "server_api"]
+	path = server_api
+	url = https://github.com/NafBZ/server_api.git
